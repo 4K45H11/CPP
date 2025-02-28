@@ -1,0 +1,3 @@
+X = 70 ,Y = -35
+X = 60 ,Y = -5
+No Solution
