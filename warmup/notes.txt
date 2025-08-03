@@ -1,0 +1,5 @@
+any javaScript piece only runs in a js engine
+arrays are stored:
+variable will store first element memory  and depending on the data type we can calculate the rest of the element memory address and it is zero indexed.
+
+objects are stored as key value pairs.
